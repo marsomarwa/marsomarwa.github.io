@@ -40,4 +40,9 @@ theme = 'barks'
         identifier = "research"
         name = "Research"
         url = "/research/"
+    [[menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/blog/"
+    
     
