@@ -1,4 +1,4 @@
-baseURL = 'https://marsomarwa.github.io/marsomarwa/'
+baseURL = 'https://marsomarwa.github.io/'
 title = 'Marwa Marso'
 languageCode = 'en-us'
 theme = 'barks'
