@@ -3,7 +3,8 @@ title = 'Marwa Marso'
 languageCode = 'en-us'
 theme = 'barks'
 [params]
-
+  favicon = "images/favicon.ico"
+    
     [params.head]
         author = "Marwa Marso"
         description = "Hi, I'm Marwa, welcome to my website!"
@@ -31,18 +32,27 @@ theme = 'barks'
     [params.footer]
         show_footer = true
 
+    [params.colors]
+        theme_color = "#333333"
+        background_color = "#fcfbf9"
+        text_color = "#333333"
+        link_color = "#00CBC5"
+
 [menus]
     [[menu.main]]
         identifier = "about"
         name = "About"
         url = "/about/"
+        weight = 1
     [[menu.main]]
         identifier = "research"
         name = "Research"
         url = "/research/"
+        weight = 2
     [[menu.main]]
         identifier = "blog"
         name = "Blog"
         url = "/blog/"
-    
+        weight = 3
+
     
