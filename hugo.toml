@@ -3,8 +3,6 @@ title = 'Marwa Marso'
 languageCode = 'en-us'
 theme = 'barks'
 [params]
-
-  favicon = "images/favicon.ico"
     [params.head]
         author = "Marwa Marso"
         description = "Hi, I'm Marwa, welcome to my website!"
