@@ -24,6 +24,11 @@ theme = 'barks'
             class = "ai ai-google-scholar-square"
             url = "https://scholar.google.com/citations?user=eV1dyrMAAAAJ&hl=en"
             weight = 3
+        [params.social.goodreads]
+            name = "Goodreads"
+            class = "fab fa-goodreads"
+            url = "https://www.goodreads.com/list/show/203651.Curated_list_of_books_that_shaped_me"
+            weight = 4
     
     [params.navigation]
     show_navigation = true

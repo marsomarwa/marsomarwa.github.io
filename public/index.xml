@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About Me I am a passionate researcher in Quantum Science and Technology, currently serving as a Research Assistant at the Center of Quantum Technologies, National University of Singapore. My academic journey has been a thrilling exploration of the quantum realm, from foundational physics to cutting-edge quantum machine learning.&#xA;I hold a Master’s degree in Quantum Science and Technology, obtained in 2024, and a Double Bachelor’s degree in Physics and Mathematics, with a final grade of 8.</description>
+    </item>
   </channel>
 </rss>
