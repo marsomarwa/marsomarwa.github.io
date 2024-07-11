@@ -43,9 +43,9 @@ theme = 'barks'
 
 [menus]
     [[menu.main]]
-        identifier = "about"
+        identifier = "About me"
         name = "About"
-        url = "/about/"
+        url = "/About/"
         weight = 1
     [[menu.main]]
         identifier = "research"

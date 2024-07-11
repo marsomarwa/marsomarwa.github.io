@@ -1,17 +1,18 @@
 ---
 menus: main
-title: About
+title: About me
 ---
-# About Me
 
-I am a passionate researcher in Quantum Science and Technology, currently serving as a Research Assistant at the Center of Quantum Technologies, National University of Singapore. My academic journey has been a thrilling exploration of the quantum realm, from foundational physics to cutting-edge quantum machine learning.
+I was born in Tetouan, a northern Mediterranean city in Morocco 🪬 . When I was 3 years old, I moved to Tarragona 🏖️, another northern Mediterranean city in Spain, where I lived until it was time to start university.
 
-I hold a Master’s degree in Quantum Science and Technology, obtained in 2024, and a Double Bachelor’s degree in Physics and Mathematics, with a final grade of 8.1/10. My research focuses on quantum optimization and qubit-efficient encoding schemes, and I have a keen interest in the practical applications of quantum machine learning.
+I pursued a double bachelor's degree in Physics and Mathematics at the Autonomous University of Barcelona (UAB), focusing on Theoretical Physics (though I will always cherish my mathematician side 🤓). During the pandemic, I took a break from my academic path to explore data analysis while working at a green energy electric startup. Afterward, I decided to pursue a master's degree, which led me to Munich, where I studied Quantum Science and Technology at the Technical University of Munich (TUM) and Ludwig Maximilian University (LMU). In my final year, I completed my Master’s Thesis at BMW Group, contributing to the expansion of a benchmarking quantum framework for quantum machine learning and conducting related studies.
 
-Before joining the National University of Singapore, I completed my Master Thesis at Bayerische Motoren Werke (BMW), where I expanded the QUARK benchmarking framework and co-authored a paper on Quantum Generative Learning. This work was presented at the IEE International Conference on Quantum Computing and Engineering. 
+Now, I have taken a "quantum jump" to Singapore, where I work in Dimitris Angelakis' group on Quantum Algorithms, Optimization, QML, and related topics.
 
-I also gained valuable experience as a Junior Project Manager at the Quantum Business Network, leading technology transfer and innovation projects, and as a Junior Sales Data Analyst at Holaluz, optimizing data extraction and management processes.
+Beyond my quantum endeavors, I love to read  📚 ([here](https://www.goodreads.com/list/show/203651.Curated_list_od_books_that_shaped_me) you can check some books that shaped me), travel in a conscious and sustainable way, and crochet 🧶  items for my fashion wardrobe and stimulate creative brain side. I also balance my workout routine with different discoveries like Muay Thai 🇹🇭 , Barre  🩰 , Calisthenics  🤸‍♀️ .
 
-In addition to my research, I enjoy contributing to science communication and education. I participated in the "Xplorers" documentary, highlighting my journey as a young scientist from Catalonia. I also volunteer as a Catalan teacher at Casal Català de Munich, fostering language and cultural learning among children.
 
-For more information, here’s my [CV](#), my [Google Scholar](#), and my [email](mmarso97@gmail.com).
+
+
+
+
