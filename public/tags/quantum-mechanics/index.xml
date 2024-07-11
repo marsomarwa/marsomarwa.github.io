@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Mechanics on Marwa Marso</title>
+    <link>http://localhost:1313/tags/quantum-mechanics/</link>
+    <description>Recent content in Quantum Mechanics on Marwa Marso</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/quantum-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A forgotten member of the Quantum Club: Grete Hermann</title>
+      <link>http://localhost:1313/blog/grete_hermann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/grete_hermann/</guid>
+      <description>HOLA CARACOLA&#xA;Watch the Video Here is an insightful video about Grete Hermann&amp;rsquo;s contributions to quantum mechanics:</description>
+    </item>
+  </channel>
+</rss>
