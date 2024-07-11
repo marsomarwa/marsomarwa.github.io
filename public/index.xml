@@ -12,7 +12,14 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>I was born in Tetouan, a northern Mediterranean city in Morocco 🪬 . When I was 3 years old, I moved to Tarragona 🏖️, another northern Mediterranean city in Spain, where I lived until it was time to start university.&#xA;I pursued a double bachelor&amp;rsquo;s degree in Physics and Mathematics at the Autonomous University of Barcelona (UAB), focusing on Theoretical Physics (though I will always cherish my mathematician side 🤓). During the pandemic, I took a break from my academic path to explore data analysis while working at a green energy electric startup.</description>
+      <description>Short Bio I was born in Tetouan, a northern Mediterranean city in Morocco 🪬 . When I was 3 years old, I moved to Tarragona 🏖️, another northern Mediterranean city in Spain, where I lived until it was time to start university.&#xA;I pursued a double bachelor&amp;rsquo;s degree in Physics and Mathematics at the Autonomous University of Barcelona (UAB), focusing on Theoretical Physics (though I will always cherish my mathematician side 🤓).</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>Peer Reviewed Articles Kiwit, F.J., Marso, M., Ross, P., Riofrío, C.A., Klepsch, J., Luckow, A. (2023): Application-oriented benchmarking of quantum generative learning using QUARK. 2023 IEEE International Conference on Quantum Computing and Engineering (QCE).arXiv:2308.04082 Preprints Kiwit, F.J., Wolf, M.A., Marso, M., Ross, P., Lorenz, J.M., Riofrío, C.A., Luckow, A. (2024): Benchmarking quantum generative learning: A study on scalability and noise resilience using QUARK.arXiv:2403.18662 </description>
     </item>
   </channel>
 </rss>

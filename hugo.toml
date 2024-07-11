@@ -31,9 +31,11 @@ theme = 'barks'
             weight = 4
     
     [params.navigation]
-    show_navigation = true
+        show_navigation = true
     [params.footer]
         show_footer = true
+    
+
 
     [params.colors]
         theme_color = "#333333"
@@ -48,14 +50,14 @@ theme = 'barks'
         url = "/About/"
         weight = 1
     [[menu.main]]
-        identifier = "research"
+        identifier = "Research"
         name = "Research"
-        url = "/research/"
+        url = "/Research/"
         weight = 2
     [[menu.main]]
-        identifier = "blog"
+        identifier = "Blog"
         name = "Blog"
-        url = "/blog/"
+        url = "/Blog/"
         weight = 3
 
     
