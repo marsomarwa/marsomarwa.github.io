@@ -2,6 +2,7 @@ baseURL = 'https://marsomarwa.github.io/'
 title = 'Marwa Marso'
 languageCode = 'en-us'
 theme = 'barks'
+
 [params]
     [params.head]
         author = "Marwa Marso"
@@ -60,4 +61,3 @@ theme = 'barks'
         url = "/Blog/"
         weight = 3
 
-    
