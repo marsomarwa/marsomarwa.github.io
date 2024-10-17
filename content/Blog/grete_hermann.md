@@ -11,6 +11,7 @@ After completing her PhD in mathematics under Noether’s guidance, Hermann took
 
 
 Discoveries are distilled through the continuous efforts of looming over the shoulders of giants, grounded in the cathedrals of knowledge. One and a half centuries before Heisenberg's magic paper, Immanuel Kant glimpsed that what we know about how the universe works is not a reflection of absolute truth but of our attempt to comprehend it. We are doomed particles of the totality, yearning to see the whole. As we look through our instruments and our theories, we do not see the universe, but ourselves.
+
 In order to measure something, change must happen. The moment we observe a particle, it is transformed by the very act of measurement. But this leads us to a classic paradox: the precise moment of change. How can a particle remain perfectly identical to itself in space and time—the same particle we are measuring—and yet, at the same time, be different enough to have changed? The blur of the instant of change, the logical prerequisite for stitching together any two moments in space-time, inheres in the very reality being observed. Ultimately, the laws of physics do not describe how things behave, but rather our observations of how things behave. 
 
 
