@@ -14,7 +14,11 @@ Discoveries are distilled through the continuous efforts of looming over the sho
 
 In order to measure something, change must happen. The moment we observe a particle, it is transformed by the very act of measurement. But this leads us to a classic paradox: the precise moment of change. How can a particle remain perfectly identical to itself in space and time—the same particle we are measuring—and yet, at the same time, be different enough to have changed? The blur of the instant of change, the logical prerequisite for stitching together any two moments in space-time, inheres in the very reality being observed. Ultimately, the laws of physics do not describe how things behave, but rather our observations of how things behave. 
 
-Kant had understood this long before quantum mechanics emerged. He realised that our experience of the world is always shaped by the way our minds work. We naturally think of things as existing in space and unfolding in time, but these aren’t properties of the world itself—they’re the ways in which we perceive it. In other words, we don’t have direct access to reality as it truly is. Instead, what we’re really seeing is how the world appears to us through the structures of space and time.
+Kant had understood this long before quantum mechanics emerged. He realised that our experience of the world is always shaped by the way our minds work. We naturally think of things as existing in space and unfolding in time, but these aren’t properties of the world itself—they’re the ways in which we perceive it. In other words, we don’t have direct access to reality as it truly is. Instead, what we’re really seeing is how the world appears to us through the structures of space and time. Heisenberg came to the same realization.
+
+(Intorduce qm and Heisenberg)
+
+Within this landscape, one cannot but wonder how we can obtain objective knowledge. This question becomes more evident in quantum mechanics than in any other area. How can we claim to know anything objectively when the very act of measurement changes what we observe? Grete Hermann, heiress of Kant’s school of thought, was willing to tackle this task.
 
 ## Complementary Material
 
