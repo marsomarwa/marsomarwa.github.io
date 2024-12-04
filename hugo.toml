@@ -39,10 +39,14 @@ theme = 'barks'
 
 
     [params.colors]
-        theme_color = "#333333"
-        background_color = "#fcfbf9"
-        text_color = "#333333"
-        link_color = "#00CBC5"
+        theme_color = "#FF9800"          # Vibrant orange
+        background_color = "#FFF8F0"     # Light cream background
+        text_color = "#403D39"           # Warm dark brown-gray
+        link_color = "#FA812F"           # Muted terracotta for links
+        accent_color = "#FF8000"         # Pale peachy orange for highlights
+
+
+
 
 [menus]
     [[menu.main]]
