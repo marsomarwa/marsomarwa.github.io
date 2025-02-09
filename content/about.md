@@ -9,7 +9,10 @@ I pursued a double **bachelor's degree** in **Physics and Mathematics** at the A
 
 Afterwards, I decided to pursue a **master's degree**, which led me to Munich, where I studied **Quantum Science and Technology** at the Technical University of Munich (**TUM**) and Ludwig Maximilian University (**LMU**). In my final year, I completed my Master’s Thesis at **BMW Group**, contributing to the expansion of a benchmarking quantum framework for quantum machine learning and conducting related studies.
 
-Now, I have taken a "quantum jump" to Singapore 🇸🇬 , where I work in [Dimitris Angelakis](https://www.quantumlah.org/research/group/D-Angelakis)' group on Quantum Algorithms, Optimisation, QML, and related topics in the Center of Quantum Technologies (**CQT**).
+In March 2024, I took a "quantum jump" to Singapore 🇸🇬 , where I worked in [Dimitris Angelakis](https://www.quantumlah.org/research/group/D-Angelakis)' group on Quantum Algorithms, Optimisation, QML, and related topics in the Center of Quantum Technologies (**CQT**).
+
+I recently joined [Richard Küng's](https://www.jku.at/en/institute-for-integrated-circuits-and-quantum-computing/about-us/philosophy-quantum-computing/) group as a PhD student at Johannes Kepler University in Linz.
+
 ## Research Interests
 I am interested in Quantum Machine Learning. In my research I would like to study quantum learning settings where the mathematical structure of quantum mechanics leads to an inductive bias in a quantum model that matches the structure it has to learn from a particular kind of dataset. 
 
