@@ -3,10 +3,11 @@ title: "My New Hugo Site"
 layout: landing_page
 image: "images/phot.jpeg"
 ---
-Hi, I’m Marwa! 👋
+Hi, I’m Marwa.  
 
-I am a PhD student 🎓 in Quantum Information at the Johannes Kepler University under the supervision of Richard Küng.
+I’m a PhD student at **JKU Linz**, where I think about:  
+* **quantum information** — how information lives, moves, and hides inside quantum systems, using glimpses of their shadows  
+* **quantum machine learning** — using quantum devices as learners themselves  
 
-My current research focuses on Shadow Learning, using Classical Shadows for Quantum Machine Learning ⚛️
-
-Please feel free to get in touch!!📧
+Outside the office, I crochet, and I like to travel or read to understand how people find meaning in different places.  
+When I can, I chase waves trying to master the slow, non-linear art of longboard surfing.

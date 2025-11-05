@@ -39,18 +39,25 @@ theme = 'barks'
 
 
     [params.colors]
-        theme_color = "#FF9800"          # Vibrant orange
-        background_color = "#FFF8F0"     # Light cream background
-        text_color = "#403D39"           # Warm dark brown-gray
-        link_color = "#FA812F"           # Muted terracotta for links
-        accent_color = "#FF8000"         # Pale peachy orange for highlights
+        theme_color       = "#328e13"   # primary accent — nature and vitality
+        background_color  = "#fdfdfb"   # almost white to let the accents breathe
+        text_color        = "#222824"   # dark olive-gray for grounded contrast
+        link_color        = "#ff616b"   # your original coral — lively but sparing
+        accent_color      = "#a6e6db"   # pale sea-mint for highlights or hover
 
+
+    [params.colors_dark]
+        theme_color       = "#a6e6db"
+        background_color  = "#172713"
+        text_color        = "#f1f1f0"
+        link_color        = "#ff616b"
+        accent_color      = "#4bbf73"
 
 
 
 [menus]
     [[menu.main]]
-        identifier = "About me"
+        identifier = "About"
         name = "About"
         url = "/About/"
         weight = 1
@@ -60,8 +67,8 @@ theme = 'barks'
         url = "/Research/"
         weight = 2
     [[menu.main]]
-        identifier = "Blog"
-        name = "Blog"
-        url = "/Blog/"
+        identifier = "Random"
+        name = "Random"
+        url = "/Random/"
         weight = 3
 

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Women in Science on Marwa Marso</title>
-    <link>http://localhost:1313/tags/women-in-science/</link>
+    <link>https://marsomarwa.github.io/tags/women-in-science/</link>
     <description>Recent content in Women in Science on Marwa Marso</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/women-in-science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marsomarwa.github.io/tags/women-in-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A forgotten member of the Quantum Club: Grete Hermann</title>
-      <link>http://localhost:1313/blog/grete_hermann/</link>
+      <link>https://marsomarwa.github.io/random/grete_hermann/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/grete_hermann/</guid>
+      <guid>https://marsomarwa.github.io/random/grete_hermann/</guid>
       <description>One of those endless lockdown days, I was studying for my History of Physics exam, working through fragments of the Einstein-Bohr debates on the epistemology of quantum mechanics. It was during one of those study sessions that I first came across the name Grete Hermann—a name buried at the bottom of the page, but a contribution that, as I’d soon learn, far exceeded the confines of a mere footnote.&#xA;Grete Hermann was one of those anachronistic figures, whose ideas seemed out of step with her time, yet ahead of it in hindsight.</description>
     </item>
   </channel>
