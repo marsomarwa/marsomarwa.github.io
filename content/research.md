@@ -36,4 +36,4 @@ title: "Research"
   my segment was filmed in Munich, where I talked about studying and doing research in quantum physics.  
 
 - [**L’Altra Cara**](https://www.3cat.cat/3cat/ciencia-i-creenca/video/6098078/)  
-  Discussion in the episode *Science and Beliefs* about if and how could scientific reasoning and personal beliefs coexist
+  Discussion in the episode *Science and Beliefs* about if and how could scientific reasoning and personal beliefs coexist.
