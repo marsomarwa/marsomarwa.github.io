@@ -25,7 +25,7 @@ title: "Research"
 
 ## Workshops and Schools
 
-- **Paraty Quantum Information School**, Brazil — *August 2025*  
+- **Paraty Quantum Information School**, Brazil — *August 2025*
 
 ---
 
