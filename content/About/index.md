@@ -12,11 +12,8 @@ trasting in culture. I moved a little north to Barcelona to study Physics and Ma
 
 Now in Linz, I try to find my new routine biking along the Danube and spending time in the Alpine mountains. I care deeply about the world beyond academia and about how activism can manifest in everyday choices. 
 
-<figure style="margin:1.5rem 0;text-align:center;">
-  <img src="/images/deepmind_1.jpg"
-       alt="Quantum landscape"
-       style="width:100%;height:auto;border-radius:12px;">
-  <figcaption style="font-size:0.9rem;color:#666;margin-top:0.5rem;">
-    Bakken & Baeck as part of the Visualising AI project launched by Google DeepMind
-  </figcaption>
-</figure>
+<video controls autoplay muted loop playsinline
+       style="width:100%;max-width:900px;border-radius:12px;">
+  <source src="/videos/deepmind_2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
