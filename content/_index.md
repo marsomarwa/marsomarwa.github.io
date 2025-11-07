@@ -5,7 +5,7 @@ image: "images/portrait.jpg"
 ---
 Hi, I’m Marwa.  
 
-I’m a PhD student at **JKU Linz**, where I think about:  
+I’m a PhD student at **JKU Linz** in **Richard Küng's** group, where I think about:  
 * **quantum information** — how information lives, moves, and hides inside quantum systems, using glimpses of their shadows  
 * **quantum machine learning** — using quantum devices as learners themselves  
 
