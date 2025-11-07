@@ -1,5 +1,6 @@
 ---
 title: "A forgotten member of the Quantum Club: Grete Hermann"
+date: 2025-11-07
 tags: ["Quantum Mechanics", "Women in Science", "History of Science"]
 ---
 
