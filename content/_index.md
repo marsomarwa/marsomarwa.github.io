@@ -1,7 +1,7 @@
 ---
 title: "My New Hugo Site"
 layout: landing_page
-image: "images/phot.jpeg"
+image: "images/portrait.jpg"
 ---
 Hi, I’m Marwa.  
 
