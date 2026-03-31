@@ -10,6 +10,11 @@ title: "Research"
   *Preprint.*  
   [arXiv:2603.26602](https://arxiv.org/abs/2603.26602)
 
+- Wilkens, J., Guevara-Bertsch, M., **Marso, M.**, Zangerl, M., Frisch, A., Girtler, F., Ulmanis, J., Roth, I., Kueng, R. (2026).  
+  *Local robust shadows on a trapped ion computer -- a case study.*  
+  *Preprint.*  
+  [arXiv:2603.28307](https://arxiv.org/abs/2603.28307)
+
 - Kiwit, F.J., Wolf, M.A., **Marso, M.**, Ross, P., Lorenz, J.M., Riofrío, C.A., Luckow, A. (2024).  
   *Benchmarking quantum generative learning: A study on scalability and noise resilience using QUARK.*  
   *KI-Künstliche Intelligenz 38 (4), 379–385.*  
